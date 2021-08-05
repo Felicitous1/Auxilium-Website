@@ -8,7 +8,7 @@ const NotFoundPage = () => (
         <div className="content">
           <h1>404!</h1>
           <p>This page does not exist</p>
-           <Link className="navbar-item" to="/">Come back home</Link>
+           <Link className="navbar-item" to="/">Come Back Home</Link>
         </div>
       </div>
       

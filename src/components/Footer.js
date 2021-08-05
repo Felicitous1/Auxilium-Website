@@ -96,6 +96,13 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
+                <a title="linkedin" href="https://www.linkedin.com/company/auxiliumracing">
+                  <img
+                    src={linkedin}
+                    alt="Linkedin"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
               </div>
             </div>
           </div>
