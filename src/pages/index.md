@@ -2,29 +2,20 @@
 templateKey: index-page
 title: ⠀⠀⠀Auxilium
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: The Auxilium of our Community
 subheading: The Auxilium of our Community
 mainpitch:
-  title: Why Kaldi
+  title: What is Auxilium?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Auxilium Racing is an F1 In Schools professional class team. Our team strongly advocates for the betterment of our community. In part, we do this by partnering with like-minded organisations. We also host events for our community to engage and participate, and present to local communities. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+ Auxilium is the F1 In Schools team building a community around STEM and our locality and supporting the businesses and organisations surrounding it. We partner and help businesses, working closely with them to achieve their goals.  
+
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We 
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

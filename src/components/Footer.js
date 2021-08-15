@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import logo from '../img/logo.svg'
+import Painting from '../img/Dot-Painting.jpg'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -96,17 +97,15 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="linkedin" href="https://www.linkedin.com/company/auxiliumracing">
-                  <img
-                    src={linkedin}
-                    alt="Linkedin"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
               </div>
             </div>
           </div>
         </div>
+        <img
+            src={Painting}
+            alt="Kaldi"
+            style={{ width: '14 em', height: '10em' }}
+          />
       </footer>
     )
   }
