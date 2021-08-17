@@ -38,7 +38,7 @@ const Footer = class extends React.Component {
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Our Offerings
                       </Link>
                     </li>
                     <li>
@@ -101,11 +101,6 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-        <img
-            src={Painting}
-            alt="Kaldi"
-            style={{ width: '14 em', height: '10em' }}
-          />
       </footer>
     )
   }
