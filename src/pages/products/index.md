@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Offerings
+title: Our Coffee
 image: /img/jumbotron.jpg
 heading: The Auxilium of our Community
 description: >-
@@ -19,10 +19,10 @@ intro:
         We’ll help you manage your social media presence by assisting you in your posts. We’ll aid you with setting posting times that will appeal to your audience and create a base following.
     - image: /img/tutorials.png
       text: >
-        We know how difficult it is to get a business up and going. That’s why we want to help. We’ll promote you on our Alamanda College social platforms, and you’ll be featured on our display booth.
+         We know how difficult it is to get a business up and going. That’s why we want to help. We’ll promote you on our Alamanda College social platforms, and you’ll be featured on our display booth.
     - image: /img/meeting-space.png
       text: >
-        We are an F1 In Schools team, but beyond that, we try to help our community. If you’re a business that may need support through these arduous times, then contact us. We’ll be happy to help with all of your needs. Even the ones not mentioned here!
+          We are an F1 In Schools team, but beyond that, we try to help our community. If you’re a business that may need support through these arduous times, then contact us. We’ll be happy to help with all of your needs. Even the ones not mentioned here!
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -30,10 +30,12 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: A partnership for the ages!
+  heading: Great coffee with no compromises
   description: >
-    If you’re a business less in need of support and would like to associate your brand with STEM in the youth and a community mindset, then you’re in luck! Sponsoring us allows you to help us help our community, and allows you to associate yourself with that. When you sponsor us, we will promote your business on countless avenues and platforms to be sure that it’s seen. Depending on your level, we may even showcase you in our large community events!
-  image1:
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
