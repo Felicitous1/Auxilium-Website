@@ -15,6 +15,3 @@ Auxilium Racing is an F1 In Schools States team. Our team strongly advocates for
 
 ### How does Auxilium help its community?
 Auxilium assists its community by assisting small businesses in our area. We assist them by providing them with graphics and creating social media posts. We also promote them on our social channels. Auxilium also launches STEM events to aid its community. Race Day is a collaboration between Auxilium and Leotorque, another F1 In Schools team. It is a STEM challenge where over 500 students in our locality interact with STEM and the F1 In Schools through a multitude of activties.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. Thatâ€™s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.

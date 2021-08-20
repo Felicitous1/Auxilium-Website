@@ -5,10 +5,7 @@ title: Our Coffee
 image: /img/jumbotron.jpg
 heading: The Auxilium of our Community
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Auxilium is the F1 In Schools team building a community around STEM and our locality and supporting the businesses and organisations surrounding it. We partner and help businesses, working closely with them to achieve their goals.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -30,12 +27,9 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: A partnership for the ages!
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    If you’re a business less in need of support and would like to associate your brand with STEM in the youth and a community mindset, then you’re in luck! Sponsoring us allows you to help us help our community, and allows you to associate yourself with that. When you sponsor us, we will promote your business on countless avenues and platforms to be sure that it’s seen. Depending on your level, we may even showcase you in our large community events!
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
